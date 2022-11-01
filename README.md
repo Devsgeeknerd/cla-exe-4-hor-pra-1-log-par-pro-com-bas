@@ -4,3 +4,5 @@
 &nbsp;
 ![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-com-con-aju-apr-alg-log-par-pro-bas-ava?style=p&label=Observadores&labelColor=f9e64f&color=008000 "Total de Observadores")
 &nbsp;
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-com-con-aju-apr-alg-log-par-pro-bas-ava?style=p&label=Estrelas&labelColor=f9e64f&color=008000 "Total de Estrelas")
+&nbsp;
