@@ -8,3 +8,5 @@
 &nbsp;
 ![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-com-con-aju-apr-alg-log-par-pro-bas-ava?style=p&label=Bifurcações&labelColor=f9e64f&color=008000 "Total de Bifurcações")
 &nbsp;
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-com-con-aju-apr-alg-log-par-pro-bas-ava?style=p&label=Tamanho&labelColor=f9e64f&color=008000 "Tamanho do Repositório")
+&nbsp;
