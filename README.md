@@ -10,3 +10,4 @@
 &nbsp;
 ![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-com-con-aju-apr-alg-log-par-pro-bas-ava?style=p&label=Tamanho&labelColor=f9e64f&color=008000 "Tamanho do Repositório")
 &nbsp;
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-com-con-aju-apr-alg-log-par-pro-bas-ava?style=p&label=Licença&labelColor=f9e64f&color=008000 "Licença do Repositório")
